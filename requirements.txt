@@ -1,0 +1,4 @@
+-e git+https://github.com/tonimichel/djpl-schnadmin.git@54be2e36b68209f830c9a91eee9ceebc0fb82157#egg=djpl-schnadmin
+-e git+https://github.com/schnapptack/djpl-jsbasics.git@9d4ec2bca21f764f273632384f916fb329f995a3#egg=djpl-jsbasics
+-e git+https://github.com/tonimichel/djpl-sqlite.git@8dcc8171ddfcc7342b336d51283386e72b482f62#egg=djpl-sqlite
+-e git+https://github.com/tonimichel/djpl-product-data.git@612f99c6c46d1692b7eed470af16cfcd6bc89d30#egg=djpl-product-data

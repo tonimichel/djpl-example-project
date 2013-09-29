@@ -1,5 +1,7 @@
 *.py[cod]
 
+
+
 # C extensions
 *.so
 
@@ -35,3 +37,6 @@ nosetests.xml
 .pydevproject
 
 *~
+context.json
+__data__
+db.sqlite
