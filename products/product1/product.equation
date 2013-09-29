@@ -1,6 +1,8 @@
 django_productline
 django_productline.features.staticfiles
 django_productline.features.admin
+product_data
+sqlite
 jsbasics
 schnadmin
 news
